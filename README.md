@@ -13,3 +13,5 @@
 [1.3 교환정렬](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%EA%B5%90%ED%99%98%EC%A0%95%EB%A0%AC.md)
 
 [1.4 행렬곱셉](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88.md)
+
+[1.5 이분검색](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%EC%9D%B4%EB%B6%84%EA%B2%80%EC%83%89.md)
