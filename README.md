@@ -19,3 +19,5 @@
 [1.6 피보나치 항 구하기](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%AD%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 
 [1.7 피보나치 항 구하기2](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%AD%20%EA%B5%AC%ED%95%98%EA%B8%B02.md)
+
+[2.0 분할정복법](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95.md)
