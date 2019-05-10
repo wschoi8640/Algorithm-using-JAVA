@@ -15,3 +15,5 @@
 [1.4 행렬곱셉](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88.md)
 
 [1.5 이분검색](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%EC%9D%B4%EB%B6%84%EA%B2%80%EC%83%89.md)
+
+[1.6 피보나치 항 구하기](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%AD%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
