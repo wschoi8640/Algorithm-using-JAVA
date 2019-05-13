@@ -31,3 +31,5 @@
 [2.4 빠른정렬](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95/%EB%B9%A0%EB%A5%B8%EC%A0%95%EB%A0%AC.md)
 
 [2.5 큰 정수곱셈](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95/%ED%81%B0%20%EC%A0%95%EC%88%98%EA%B3%B1%EC%85%88.md)
+
+[2.6 큰 정수곱셈2](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95/%ED%81%B0%20%EC%A0%95%EC%88%98%EA%B3%B1%EC%85%882.md)
