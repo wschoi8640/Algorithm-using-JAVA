@@ -25,3 +25,5 @@
 [2.1 이분검색](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95/%EC%9D%B4%EB%B6%84%EA%B2%80%EC%83%89.md)
 
 [2.2 합병정렬](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95/%ED%95%A9%EB%B3%91%EC%A0%95%EB%A0%AC.md)
+
+[2.3 합병정렬2](https://github.com/wschoi8640/Algorithm-using-JAVA/blob/master/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95/%ED%95%A9%EB%B3%91%EC%A0%95%EB%A0%AC2.md)
